@@ -1,54 +1,175 @@
-<h1 align="center">👨‍💻 AMARNATH | HACKERAMARNATH</h1><h3 align="center">Cyber Security Student | Ethical Hacking Explorer</h3><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Ethical+Hacking+Learner;Python+Security+Tools+Developer;Web+Security+Explorer"/>
-</p>---
+<h1 align="center">Hi 👋, I'm Amarnath Dari</h1>
 
-🔐 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Bug+Bounty+Hunter;CTF+Player;Web+Application+Security+Researcher;VAPT+%7C+WAPT+%7C+Python+Developer;Always+Learning+Something+New" />
+</p>
 
-Cyber Security student passionate about securing digital systems and exploring vulnerabilities.
-
-• Ethical Hacking
-• Web Security
-• OSINT Investigation
-• Python Security Tools
-
-Always learning and experimenting with security technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00ff41"/>
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=00ff41"/>
+</p>
 
 ---
 
-🧠 Tech Stack
+# 👨‍💻 About Me
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,bash,linux,git,github,vscode"/></p>---
+```text
+> whoami
 
-📊 GitHub Stats
+Name        : Amarnath Dari
+Role        : Cyber Security Student
+Focus       : Web Application Security
+Learning    : Advanced VAPT & Bug Bounty
+Language    : Python
+Mission     : Secure the Digital World
+```
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hackeramarnath&show_icons=true&theme=tokyonight&hide_border=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=hackeramarnath&theme=tokyonight&hide_border=true"/></p>---
+- 🔐 Passionate about Cyber Security
+- 🕷️ Bug Bounty Hunter
+- 🎯 CTF Player
+- 🌐 Web Application Penetration Testing
+- 🧠 Learning Advanced Exploitation Techniques
+- ⚡ Python Automation for Security
+- 🚀 Always Improving My Skills
 
-📈 Most Used Languages
+---
 
-<img src="https://skillicons.dev/icons?i=python"/>
-⚡ Activity Graph
+# ⚔️ Skills
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackeramarnath&theme=tokyo-night"/>---
+<p align="center">
 
-🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,vscode,github,git,html,css,javascript,mysql"/>
 
-🔹 Python Security Tools
+</p>
+
+### Cyber Security
+
+- Web Application Security
+- VAPT
+- WAPT
+- Bug Hunting
+- OWASP Top 10
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- SQL Injection
+- XSS
+- IDOR
+- Authentication Testing
+- API Security
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+Learning:
+  - Advanced Web Pentesting
+  - Business Logic Bugs
+  - API Security
+  - Cloud Security
+
+Working On:
+  - AI Bug Bounty Assistant
+  - Security Automation
+  - Python Security Tools
+
+Goal:
+  - Become an Elite Security Researcher
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,html,css,javascript"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+🔹 AI Bug Bounty Assistant
+
 🔹 Web Vulnerability Scanner
-🔹 Bash Automation Scripts
-🔹 OSINT Toolkit
+
+🔹 Python Security Toolkit
+
+🔹 CTF Writeups
+
+🔹 Automation Scripts
 
 ---
 
-🐍 Contribution Snake
+# 🌐 Connect With Me
 
-"snake gif" (https://github.com/hackeramarnath/hackeramarnath/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amarnath-dari-14427a397">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-🌐 Connect With Me
+<p align="center">
 
-<p align="center"><a href="https://github.com/hackeramarnath">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a></p>---
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-⭐ "Think like a hacker, defend like a professional.😎"
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ "Hack to Learn. Learn to Secure."
+
+</p>
