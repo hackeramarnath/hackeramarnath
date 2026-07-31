@@ -108,27 +108,7 @@ Goal:
 
 </p>
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 📂 Featured Projects
 
