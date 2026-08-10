@@ -15,7 +15,7 @@
 # About Me
 
 ```text
-> whoami
+root@kali:~# whoami
 
 Name        : Amarnath Dari
 Role        : Cyber Security Student
