@@ -3,7 +3,7 @@
 Hi, I'm Amarnath Dari
 ```
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Bug+Bounty+Hunter;CTF+Player;Web+Application+Security+Researcher;VAPT+%7C+WAPT+%7C+Python+Developer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Bug+Bounty+Hunter;CTF+Player;Web+Application+Security+Researcher;VAPT+%7C+WAPT+%7C;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
