@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amarnath Dari</h1>
+<h1 align="center">Hi, I'm Amarnath Dari</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Bug+Bounty+Hunter;CTF+Player;Web+Application+Security+Researcher;VAPT+%7C+WAPT+%7C+Python+Developer;Always+Learning+Something+New" />
@@ -24,17 +24,17 @@ Learning    : Advanced VAPT & Bug Bounty
 Mission     : Ethical hacker with a Blackhat mindset
 ```
 
-- 🔐 Passionate about Cyber Security
-- 🕷️ Bug Bounty Hunter
-- 🎯 CTF Player
-- 🌐 Web Application Penetration Testing
-- 🧠 Learning Advanced Exploitation Techniques
-- ⚡ Python Automation for Security
-- 🚀 Always Improving My Skills
+- Passionate about Cyber Security
+- Bug Bounty Hunter
+- CTF Player
+- Web Application Penetration Testing
+- Learning Advanced Exploitation Techniques
+- Python Automation for Security
+- Always Improving My Skills
 
 ---
 
-# ⚔️ Skills
+# Skills
 
 <p align="center">
 
@@ -57,35 +57,32 @@ Mission     : Ethical hacker with a Blackhat mindset
 - XSS
 - IDOR
 - Authentication Testing
-- API Security
+- Web LLM attacks
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 ```yaml
 Learning:
   - Advanced Web Pentesting
   - Business Logic Bugs
-  - API Security
-  - Cloud Security
+  - Sql injection
+  - Web LLM attacks
 
 Working On:
-  - AI Bug Bounty Assistant
-  - Security Automation
-  - Python Security Tools
-
+  - Bug Bounty
 Goal:
   - Become an Elite Security Researcher
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,burpsuite,mysql,html,css,javascript"/>
 
 </p>
 
