@@ -76,24 +76,6 @@ Goal:
   - Become an Elite Security Researcher
 ```
 
-# root@Blackhat:~# GitHub Statistics hackeramarnath
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-
 # root@Blackhat:~# Featured Projects hackeramarnath
 
 🔹 AI Bug Bounty Assistant
