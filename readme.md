@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 ```text
 > whoami
@@ -21,8 +21,7 @@ Name        : Amarnath Dari
 Role        : Cyber Security Student
 Focus       : Web Application Security
 Learning    : Advanced VAPT & Bug Bounty
-Language    : Python
-Mission     : Secure the Digital World
+Mission     : Ethical hacker with a Blackhat mindset
 ```
 
 - 🔐 Passionate about Cyber Security
