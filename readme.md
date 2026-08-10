@@ -82,7 +82,10 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,burpsuite,mysql,html,css,javascript"/>
+<img src="<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,javascript,mysql,wireshark,kali,arch,windows,vscode,&perline=7" />
+</p>"/>
+
 
 </p>
 
