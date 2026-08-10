@@ -81,7 +81,7 @@ Goal:
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,javascript,mysql,wireshark,kali,arch,windows,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,javascript,mysql,kali,arch,windows,vscode&perline=7" />
 </p>
 
 ---
