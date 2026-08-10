@@ -61,7 +61,7 @@ Mission     : Ethical hacker with a Blackhat mindset
 
 ---
 
-# Current Focus
+# root@Blackhat:~# current focus hackeramarnath
 
 ```yaml
 Learning:
@@ -76,7 +76,7 @@ Goal:
   - Become an Elite Security Researcher
 ```
 
-# 📊 GitHub Statistics
+# root@Blackhat:~# GitHub Statistics hackeramarnath
 
 <p align="center">
 
@@ -94,7 +94,7 @@ Goal:
 
 
 
-# 📂 Featured Projects
+# root@Blackhat:~# Featured Projects hackeramarnath
 
 🔹 AI Bug Bounty Assistant
 
@@ -108,7 +108,7 @@ Goal:
 
 ---
 
-# 🌐 Connect With Me
+# root@Blackhat:~# Connect With hackeramarnath
 
 <p align="center">
 
