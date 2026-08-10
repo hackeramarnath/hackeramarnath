@@ -12,7 +12,7 @@
 
 ---
 
-# root@Blackhat:~#whois hackeramarnath
+# root@Blackhat:~# whois hackeramarnath
 
 ```text
 root@kali:~# whoami
