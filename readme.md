@@ -114,8 +114,3 @@ Goal:
 
 ---
 
-<p align="center">
-
-### ⚡ "Hack to Learn. Learn to Secure."
-
-</p>
