@@ -38,7 +38,7 @@ Mission     : Ethical hacker with a Blackhat mindset
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,javascript,mysql,wireshark,kali,arch,windows,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,javascript,mysql,kali,arch,windows,vscode"/>
 
 </p>
 
