@@ -1,7 +1,7 @@
 # root@Blackhat:~# searchsploit hackeramarnath
 ```yaml
 Hi, I'm Amarnath Dari</h1>
-
+```
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Bug+Bounty+Hunter;CTF+Player;Web+Application+Security+Researcher;VAPT+%7C+WAPT+%7C+Python+Developer;Always+Learning+Something+New" />
 </p>
@@ -12,7 +12,7 @@ Hi, I'm Amarnath Dari</h1>
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=00ff41"/>
 </p>
 
-```
+
 
 # root@Blackhat:~# whois hackeramarnath
 
