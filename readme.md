@@ -38,7 +38,7 @@ Mission     : Ethical hacker with a Blackhat mindset
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,vscode,github,git,html,css,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,burpsuite,mysql,html,css,javascript"/>
 
 </p>
 
@@ -75,16 +75,6 @@ Working On:
 Goal:
   - Become an Elite Security Researcher
 ```
-
----
-
-# Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,burpsuite,html,css,javascript,mysql,kali,arch,windows,vscode&perline=7" />
-</p>
-
----
 
 # 📊 GitHub Statistics
 
