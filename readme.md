@@ -12,7 +12,7 @@
 
 ---
 
-# root@kali:~#whois hackeramarnath
+# root@Blackhat:~#whois hackeramarnath
 
 ```text
 root@kali:~# whoami
@@ -34,7 +34,7 @@ Mission     : Ethical hacker with a Blackhat mindset
 
 ---
 
-# Skills
+# root@Blackhat:~# Skills hackeramarnath
 
 <p align="center">
 
